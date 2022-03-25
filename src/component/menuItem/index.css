@@ -1,0 +1,3 @@
+.menuItemScroll::-webkit-scrollbar {
+	display: none;
+}
